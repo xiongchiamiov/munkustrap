@@ -2,3 +2,6 @@
 * Thumb up an idea if you like it (Digg-style), or post a bounty
   - we take percentage of bounty if it is either fulfilled, or retracted after mediation (no loss if no one claims it)
   - can post ideas with bounty (minimum of $1).  Others would be able to fulfill that bounty and gather the payment.  Good way to get small bits of work done, or even large projects where many people can collect upon one bounty.
+* Athena programming system - create puzzles for users to solve and grade their code based on various criteria.
+  - can grade many different programming languages
+  - users can post other puzzles
